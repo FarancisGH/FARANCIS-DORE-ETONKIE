@@ -1,0 +1,9 @@
+body {
+  font-family: system-ui;
+  background: red;
+  color: white;
+  text-align: center; 
+}
+ol {
+  text-align:left;
+}
